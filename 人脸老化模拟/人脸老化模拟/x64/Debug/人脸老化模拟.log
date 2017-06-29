@@ -1,0 +1,270 @@
+﻿  main.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.h(50): error C3646: 'SVM': unknown override specifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.h(50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(152): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(158): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(159): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(108): warning C4297: 'getMyShape': function assumed not to throw an exception but does
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(108): note: The function is extern "C" and /EHc was specified
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(122): warning C4297: 'getMyShape': function assumed not to throw an exception but does
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(122): note: The function is extern "C" and /EHc was specified
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(189): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(192): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\main.cpp(334): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  FacePredict.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(174): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(174): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(313): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(313): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(351): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(352): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(353): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(354): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(370): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(372): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(377): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(378): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(379): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\facepredict.cpp(435): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AgeEstimation.cpp
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.h(50): error C3646: 'SVM': unknown override specifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.h(50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(76): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(126): error C2065: 'CvSVMParams': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(126): error C2146: syntax error: missing ';' before identifier 'params'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(126): error C2065: 'params': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(127): error C2065: 'params': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(127): error C2228: left of '.svm_type' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(127): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(127): error C2653: 'CvSVM': is not a class or namespace name
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(127): error C2065: 'C_SVC': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(128): error C2065: 'params': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(128): error C2228: left of '.kernel_type' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(128): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(128): error C2653: 'CvSVM': is not a class or namespace name
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(128): error C2065: 'LINEAR': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(132): error C2065: 'SVM': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(132): error C2228: left of '.train' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(132): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(132): error C2065: 'params': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(133): error C2065: 'SVM': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(133): error C2228: left of '.save' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(133): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(170): error C2065: 'SVM': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(170): error C2228: left of '.get_support_vector_count' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(170): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(171): error C2065: 'SVM': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(171): error C2228: left of '.load' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(171): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(174): error C2065: 'SVM': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(174): error C2228: left of '.predict' must have class/struct/union
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\ageestimation.cpp(174): note: type is 'unknown-type'
+  AAM_Util.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(146): warning C4005: 'MAX_PATH': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(60): note: see previous definition of 'MAX_PATH'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(150): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(179): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(222): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(205): warning C4101: 's': unreferenced local variable
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_util.cpp(244): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AAM_TDM.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_tdm.cpp(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_tdm.cpp(99): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_tdm.cpp(287): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_tdm.cpp(296): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_tdm.cpp(341): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  AAM_PAW.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(72): error C2065: 'CvSubdiv2D': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(72): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(72): error C3861: 'cvCreateSubdivDelaunay2D': identifier not found
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(74): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(74): error C3861: 'cvSubdivDelaunay2DInsert': identifier not found
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(77): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(79): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(86): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(103): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(103): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(108): error C2065: 'CvQuadEdge2D': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(108): error C2065: 'edge': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(110): error C2065: 'CvSubdiv2DPoint': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(110): error C2065: 'org_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(110): error C2065: 'dst_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(118): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(118): error C2227: left of '->edges' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(118): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(119): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(119): error C2227: left of '->edges' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(119): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(119): error C2227: left of '->total' must point to class/struct/union/generic type
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(121): error C2065: 'edge': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(121): error C2065: 'CvQuadEdge2D': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(121): error C2059: syntax error: ')'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(122): error C2065: 'edge': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(122): error C2227: left of '->flags' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(122): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(124): error C2065: 'org_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(124): error C2065: 'CvSubdiv2DEdge': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(124): error C2146: syntax error: missing ')' before identifier 'edge'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(125): error C2065: 'dst_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(125): error C2065: 'CvSubdiv2DEdge': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(125): error C2146: syntax error: missing ')' before identifier 'edge'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(127): error C2065: 'org_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(127): error C2065: 'dst_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(129): error C2065: 'org_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(129): error C2227: left of '->pt' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(129): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(130): error C2065: 'dst_pt': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(130): error C2227: left of '->pt' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(130): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(131): error C2065: 'ConvexHull': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(132): error C2065: 'ConvexHull': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(155): error C2065: 'Subdiv': undeclared identifier
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(155): error C2227: left of '->edges' must point to class/struct/union/generic type
+  i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(155): note: type is 'unknown-type'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(155): error C2227: left of '->elem_size' must point to class/struct/union/generic type
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(443): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(444): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.cpp(445): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+  AAM_IC.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(384): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(412): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(534): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(548): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(550): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(552): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(576): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(577): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(578): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(579): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(596): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(598): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(603): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(604): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_ic.cpp(605): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+  AAM_CAM.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(72): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(266): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(267): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(268): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(269): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(285): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(287): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(292): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(293): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(294): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(387): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_cam.cpp(417): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  AAM_Basic.cpp
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+h:\opencv3.1.0\opencv\build\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_shape.h(56): warning C4267: 'return': conversion from 'size_t' to 'const int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_paw.h(150): error C2143: syntax error: missing ',' before '*'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(210): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(277): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(299): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(380): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(483): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(513): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(514): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(672): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(686): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(688): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(690): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(716): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(717): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(718): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(719): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(736): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(738): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(743): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(744): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+i:\vs2015\c++ 数据结构\人脸老化模拟\人脸老化模拟\aam_basic.cpp(745): warning C4244: '=': conversion from 'double' to 'byte', possible loss of data
+  Generating Code...
